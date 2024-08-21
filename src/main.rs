@@ -3,7 +3,8 @@ use std::io::{ prelude::*, BufReader };
 use std::fs;
 
 fn main() {
-    let listener = TcpListener::bind("0.0.0.0:10000").unwrap();
+//    let listener = TcpListener::bind("0.0.0.0:10000").unwrap();
+    let listener = TcpListener::bind("127.0.0.1:8000").unwrap();
 
     for stream in listener.incoming() {
         let stream = stream.unwrap();
@@ -37,9 +38,11 @@ fn handle_connection(mut stream: TcpStream) {
                 run_multithreads();
                 ("HTTP/1.1 200 OK", "index.html")
             } else {
-                ("HTTP/1.1 404 NOT FOUND", "404.xhtml")
+                ("HTTP/1.1 404 NOT FOUND", "index.html")
             }
         };
+    // imprimiendo filename para debugging:
+    println!("filename: {}", filename);
     let contents = fs::read_to_string(filename).unwrap();
     let length = contents.len();
     let response = format!("{}\r\nContent length: {}\r\n\r\n{}",
