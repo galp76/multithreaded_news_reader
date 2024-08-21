@@ -1,14 +1,14 @@
 <h3><a style="color:orange;" href="https://www.bbc.com/mundo">BBC Mundo</a></h3>
-<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cwyw537z0g7o">"EE.UU. está preparado para la presidenta Harris": los contundentes discursos de Michelle y Barack Obama en apoyo a la candidata demócrata en la convención de Chicago</a></p>
-<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/c1jlxrwz8kgo">"Las plataformas como Airbnb o Booking aumentan la crisis de vivienda, pero las razones que la provocan son otras"</a></p>
 <p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cy8xq0v8813o">"Siento mucha fortuna de celebrar en vida mi propio funeral": Tatiana Andia, la profesora colombiana con cáncer terminal que eligió no someterse a tratamientos agresivos</a></p>
-<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cwy73wd79ldo">Qué son las trombas marinas, una de las posibles causas del naufragio del yate de lujo Bayesian cerca de Sicilia</a></p>
-<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cvg5nmqpjmqo">El gigantesco experimento con árboles longevos que da esperanza a la lucha contra el cambio climático</a></p>
-<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/c3ejzznkd8jo">Mpox no es una nueva covid y puede ser contenida, dice la OMS</a></p>
-<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cm2nvv7j1nzo">Panamá inicia deportación de migrantes en vuelos financiados por EE.UU.</a></p>
-<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cj621r34rryo">5 sectores laborales que tendrán una elevada demanda en el futuro (y las habilidades necesarias para tener éxito en ellos)</a></p>
-<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/c3ejz94yk30o">La agónica operación de rescate tras el naufragio de un yate de lujo en Italia en el que desaparecieron el presidente de Morgan Stanley International y otras 5 personas</a></p>
+<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/c1jlxrwz8kgo">"Las plataformas como Airbnb o Booking aumentan la crisis de vivienda, pero las razones que la provocan son otras"</a></p>
+<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cwyw537z0g7o">"EE.UU. está preparado para la presidenta Harris": los contundentes discursos de Michelle y Barack Obama en apoyo a la candidata demócrata en la convención de Chicago</a></p>
+<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/c3ejz94yk30o">Hallan 5 cuerpos en el interior del yate de lujo naufragado en Italia</a></p>
+<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cwy73wd79ldo">Qué son las trombas marinas, una de las posibles causas del naufragio del yate de lujo cerca de Sicilia que dejó varios muertos</a></p>
 <p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/c0mn8314enwo">"Fui un peón en un juego de ajedrez": el adolescente que se convirtió en la persona más joven en ser encarcelada por traición en Rusia y que fue liberado en un intercambio de prisioneros</a></p>
+<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cm2nvv7j1nzo">Panamá inicia deportación de migrantes en vuelos financiados por EE.UU.</a></p>
+<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/c3ejzznkd8jo">Mpox no es una nueva covid y puede ser contenida, dice la OMS</a></p>
+<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cvg5nmqpjmqo">El gigantesco experimento con árboles longevos que da esperanza a la lucha contra el cambio climático</a></p>
+<p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cj621r34rryo">5 sectores laborales que tendrán una elevada demanda en el futuro (y las habilidades necesarias para tener éxito en ellos)</a></p>
 <p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cy0rr2rg15vo">El pequeño país que tiene la tasa de suicidios más alta del mundo</a></p>
 <p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/cn875yjx6q4o">Jennifer López solicita el divorcio de Ben Affleck tras 2 años de matrimonio</a></p>
 <p><a style="color:cornsilk" href="https://www.bbc.com/mundo/articles/c8xl8yzp8nwo">Los Everglades de Florida, el proyecto de restauración ambiental más grande del mundo</a></p>

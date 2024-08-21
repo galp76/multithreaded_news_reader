@@ -1,31 +1,31 @@
 <h3><a style="color:orange;" href="https://news.ycombinator.com/item?id=41308599">Hacker News</a></h3>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41307195">PS4 Emulator for Windows, Linux, macOS</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41312084">Code Review Antipatterns</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41310384">How to Build a 50K Ton Forging Press</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41311071">Mimalloc Cigarette: Losing one week of my life catching a memory leak (Rust)</a></p>
 <p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41307815">Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41310404">Trillian Tessera: Next Generation Tile-Based Transparency Logs</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41308114">The Discovery of the Celendrical Date Line</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41312079">Launch HN: Outerport (YC S24) – Instant hot-swapping for AI model weights</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41263876">Better Living Through Algorithms (just won the Hugo for short SF story [1])</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41310834">Self-Supervised Learning for Videos</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41271139">Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41312134">Flexport Is Hiring a Senior Product Designer for Our Newest Product</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41312259">Kill the Newsletter: Convert email newsletters into Atom feeds</a></p>
 <p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41303974">Zen, a Arc-like open-source browser based on the Firefox engine</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41272893">The weird of function-local types in Rust</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41308114">The Discovery of the Celendrical Date Line</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41287641">The Origins of the Bloody Mary (2014)</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41309292">Electrostatic motors reach the macro scale</a></p>
 <p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41306128">Calling All Hackers</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41302597">Data Exfiltration from Slack AI via indirect prompt injection</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41309401">Sieve (YC W22) Is hiring engineers to build AI [video] developer tools</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41307011">The semantic web is now very widely adopted</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41282033">On Being a Senior Engineer (2012)</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41298794">Toasts are bad UX</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41310433">Revisiting the Classics: Jensen&#x27;s Inequality (2023)</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41307166">Australian government approves AAPowerLink project to export solar to Singapore</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41312225">Midjourney web experience is now open to everyone</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41308712">Juice rerouted to Venus in first lunar-Earth flyby</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41272893">The weird of function-local types in Rust</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41312984">New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41312975">Major Backdoor in RFID Cards Allows Instant Cloning</a></p>
 <p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41272125">David Mackenzie – A Personal History with Linux and BSD Unix [video]</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41308038">ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41299211">Basic Mechanisms In Fire Control Computers (1953) [video]</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41304508">Plasmo – a framework for building modern Chrome extensions</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41297563">The U.S. Navy&#x27;s $100M checkbox (2019)</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41307011">The semantic web is now widely adopted</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41282033">On Being a Senior Engineer (2012)</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41271453">Evolution of adhesive systems in amphibians by shifts in gene expression</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41312317">Hurricane season has flatlined. When will it roar back to life?</a></p>
+<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41304508">Plasmo – A framework for building modern Chrome extensions</a></p>
 <p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41300071">Nasir Ahmed&#x27;s digital-compression breakthrough helped make JPEGs&#x2F;MPEGs possible</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41284189">Show HN: Wd-40, a static webserver with automatic hot-reloads</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41301448">Launch HN: MinusX (YC S24) – AI assistant for data tools like Jupyter&#x2F;Metabase</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41282948">A road safety plan that will lead to cars communicating with each other</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41267894">The 1 Hour per Year Bug, but only in Pacific time</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41302453">Making database systems usable</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41293219">On finishing projects</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41288579">Migrating from DokuWiki to Obsidian</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41299148">Transformers for Ruby</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41282807">Bug squash: An underrated interview question</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41305272">Show HN: A simple and powerful RSS reader for the web</a></p>
-<p><a style="color:cornsilk" href="https://news.ycombinator.com/item?id=41282798">Uniqueness Bias: Why it matters, how to curb it</a></p>
 <br><br>
